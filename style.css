@@ -1,0 +1,21 @@
+.bulet{
+    border-radius: 50%;
+    height: 20%;
+    width: 20%;
+}
+
+.tengahin{
+    text-align: center;
+}
+
+.background-container {
+  background-image: url('sapijima.jpg'); /* Ganti dengan URL gambarmu */
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Tinggi penuh layar */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
